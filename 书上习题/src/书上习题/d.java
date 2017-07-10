@@ -1,0 +1,7 @@
+package  È…œœ∞Ã‚;
+import javafx.application.Application;
+
+public class d {
+
+	
+}
